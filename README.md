@@ -1,3 +1,9 @@
+
+
+
+https://github.com/AlinePinhelli/AluraStudiesReact/assets/97640506/1beebef6-27c7-48e7-bacb-0e2f6e6666e1
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
